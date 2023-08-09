@@ -1,2 +1,2 @@
 # ejercicios_laed
-Código por Agustín Rosa. Ejercicios de la guía de taller.
+Código por Agustín Rosa. Los 7 ejercicios del Trabajo Practico N°3
