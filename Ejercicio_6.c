@@ -16,5 +16,5 @@ void octavaparte(float numero)
 	float n;
 	n=numero/8;
 	printf("La octava parte de tu numero es: %f\n",n);
-	return;
+	//return; No se utiliza en funciones que no devuelven valor.
 }
